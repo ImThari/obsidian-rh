@@ -1,6 +1,0 @@
-site_name: Mon site RH
-theme:
-  name: material
-
-nav:
-  - Accueil: index.md
