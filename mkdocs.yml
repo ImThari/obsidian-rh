@@ -1,7 +1,0 @@
-site_name: fiche Rh
-theme:
-  name: material
-
-nav:
-
-  - Accueil: index.md
