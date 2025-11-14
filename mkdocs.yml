@@ -1,6 +1,7 @@
-site_name: Mon site RH
+site_name: obsidian-rh
 theme:
   name: material
 
 nav:
+
   - Accueil: index.md
