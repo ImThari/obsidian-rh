@@ -1,7 +1,0 @@
-site_name: obsidian-rh
-theme:
-  name: material
-
-nav:
-
-  - Accueil: index.md
