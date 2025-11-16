@@ -1,0 +1,27 @@
+site_name: Fiches de Thari
+theme:
+  name: material
+  language: fr
+
+nav:
+  - Accueil: index.md
+
+  - Assurer les missions opérationnelles de la gestion RH:
+      - Thème 1 - Gestion administrative du personnel: "Assurer les missions opérationnelles de la gestion RH/Thème 1 - Gestion administrative du personnel.md"
+      - Thème 2 - Gestion du temps de travail: "Assurer les missions opérationnelles de la gestion RH/Thème 2 - Gestion du temps de travail.md"
+      - Thème 3 - Paie & Rémunération: "Assurer les missions opérationnelles de la gestion RH/Thème 3 - Paie & Rémunération.md"
+      - Thème 4 - Congés & Absence: "Assurer les missions opérationnelles de la gestion RH/Thème 4 - Congés & Absense.md"
+      - Thème 5 - Licenciement: "Assurer les missions opérationnelles de la gestion RH/Thème 5 - Licenciement.md"
+      - Thème 6 - Santé & Sécurité au travail: "Assurer les missions opérationnelles de la gestion RH/Thème 6 - Santé & Sécurité au travail.md"
+      - Thème 7 - Ruptures Contractuelles: "Assurer les missions opérationnelles de la gestion RH/Thème 7 - Ruptures Contractuelles.md"
+      - Thème 8 - Droit du Travail & Relations Sociales: "Assurer les missions opérationnelles de la gestion RH/Thème 8 - Droit du Travail & Relations Sociales.md"
+      - Thème 9 - Gestion RH quotidienne: "Assurer les missions opérationnelles de la gestion RH/Thème 9 - Gestion RH quotidienne.md"
+      - Thème 10 - Contrôle & Conformité RH: "Assurer les missions opérationnelles de la gestion RH/Thème 10 - Contrôle & Conformité RH.md"
+
+  - Contribuer au développement des RH:
+      - Thème 1 - Recrutement: "Contribuer au développement des RH/Thème 1 - Recrutement.md"
+      - Thème 2 - Intégration & Onboarding: "Contribuer au développement des RH/Thème 2 - Intégration & Onboarding.md"
+      - Thème 3 - Formation Professionnelle: "Contribuer au développement des RH/Thème 3 - Formation Professionnelle.md"
+      - Thème 4 - Gestion des compétences: "Contribuer au développement des RH/Thème 4 - Gestion des compétences.md"
+      - Thème 5 - GEPP ou GPEC: "Contribuer au développement des RH/Thème 5 - GEPP ou GPEC.md"
+      - Thème 6 - Projets RH & Amélioration continue: "Contribuer au développement des RH/Thème 6 - Projets RH & Amélioration continue.md"
